@@ -15,7 +15,8 @@ Get started:
 - I have provided a java project that including all the needed java file and picture to run the game
 
 - To use this project, include the folder in your java project or manually copy the package files into your project's source directory.
-Make sure to change the package name if your is different. Open the PingPongGame file and run. It should be looking like this:
+Make sure to change the package name if your is different. If you only copy the package or Java file, remember to include the assets folder to get the image for the game.
+- To play the game, open the PingPongGame file and run. It should be looking like this:
 
 public class PingPongGame {
 
